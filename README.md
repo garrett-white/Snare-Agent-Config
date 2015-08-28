@@ -6,7 +6,7 @@ Uses [Microsoft.Win32.RegistryKey] to retreive Snare configuration settings from
 
 ## [Examples]
 
-#####Retreives a list of Snare configuration settings from Computer1 and Computer2
+#####Retreives a list of Snare configuration settings from Computer1
 
 ```Powershell
 .\Get-SnareAgentConfig.ps1 -ComputerName Computer1
